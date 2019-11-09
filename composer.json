@@ -2,7 +2,12 @@
     "name": "supernova-developer/simple-auth-codeigniter",
     "description": "belajar buat skeleton web",
     "license": "MIT",
-    "keywords": [],
+    "keywords": [
+        "framework",
+        "codeigniter",
+        "auth",
+        "learn"
+    ],
     "require": {
         "php": ">=5.5.0"
     },
