@@ -3,4 +3,4 @@ Repositori belajar membuat web skeleton dengan studi kasus fitur auth codeignite
 
 
 ## Installation
-- Run `composer create-project --prefer-dist cleancode-id/laravel6-api-boilerplate`
+- Run `composer create-project --prefer-dist supernova-developer/simple-auth-codeigniter`
