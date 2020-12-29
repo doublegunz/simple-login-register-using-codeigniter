@@ -1,9 +1,9 @@
-![Simple login register using codeigniter](assets/img/header.png)
+![Simple login register using codeigniter](https://qadrlabs.com/public/storage/upload/post/8ec07f66458dd35040e711baa1de4bca-Membuat_Simple_Login_dan_Register_Menggunakan_CodeIgniter.png)
 
 # Simple login register using codeigniter
-Hello there! Actually, this code is sample for my article :: simple login and register using codeigniter.
+Hello there! Actually, this code is sample for my article, simple login and register using codeigniter.
 
-For more info, feel free to visit [my blog](https://recodeku.blogspot.co.id/2016/03/membuat-simple-login-dan-register.html).
+For more info, feel free to visit [my blog](https://qadrlabs.com/post/membuat-simple-login-dan-register-menggunakan-codeigniter).
 
 
 [![License](https://img.shields.io/github/license/doublegunz/simple-login-register-using-codeigniter.svg?maxAge=3600)](https://github.com/doublegunz/simple-login-register-using-codeigniter) 
@@ -13,7 +13,7 @@ For more info, feel free to visit [my blog](https://recodeku.blogspot.co.id/2016
 [![GitHub Contributors](https://img.shields.io/github/contributors/doublegunz/simple-login-register-using-codeigniter.svg?maxAge=3600)](https://github.com/doublegunz/simple-login-register-using-codeigniter/network/members)
 
 ## Tutorial Link
-You can visit my blog [here.](https://recodeku.blogspot.co.id/2016/03/membuat-simple-login-dan-register.html)
+You can visit my blog [here.](https://qadrlabs.com/post/membuat-simple-login-dan-register-menggunakan-codeigniter)
 
 ## Update 08 October 2018
 Requirement for updated tutorial :
@@ -25,8 +25,7 @@ Requirement for updated tutorial :
 
 ## Contact Me :
 
-[![Email](https://img.shields.io/badge/doublegunz-Email-yellow.svg?maxAge=3600)](mailto:gungunpriatna02@gmail.com) 
-[![Website](https://img.shields.io/badge/doublegunz-Blog-brightgreen.svg?maxAge=3600)](https://recodeku.blogspot.com/)
+[![Website](https://img.shields.io/badge/doublegunz-Blog-brightgreen.svg?maxAge=3600)](https://qadrlabs.com/)
 [![Facebook](https://img.shields.io/badge/doublegunz-Facebook-blue.svg?maxAge=3600)](https://www.facebook.com/gungunpriatna002) 
 
 [![Linkedin](https://img.shields.io/badge/gungunpriatna-Linkedin-0077b5.svg?maxAge=3600)](https://www.linkedin.com/in/gungunpriatna/) 
