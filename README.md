@@ -12,6 +12,9 @@ For more info, feel free to visit [my blog](https://qadrlabs.com/post/membuat-si
 [![GitHub Star](https://img.shields.io/github/stars/doublegunz/simple-login-register-using-codeigniter.svg?maxAge=3600)](https://github.com/doublegunz/simple-login-register-using-codeigniter/stargazers) 
 [![GitHub Contributors](https://img.shields.io/github/contributors/doublegunz/simple-login-register-using-codeigniter.svg?maxAge=3600)](https://github.com/doublegunz/simple-login-register-using-codeigniter/network/members)
 
+## Demo
+You can view the live version of this project at [this url](http://demo-auth-ci3.infinityfreeapp.com/).
+
 ## Tutorial Link
 You can visit my blog [here.](https://qadrlabs.com/post/membuat-simple-login-dan-register-menggunakan-codeigniter)
 
@@ -27,5 +30,4 @@ Requirement for updated tutorial :
 
 [![Website](https://img.shields.io/badge/doublegunz-Blog-brightgreen.svg?maxAge=3600)](https://qadrlabs.com/)
 [![Facebook](https://img.shields.io/badge/doublegunz-Facebook-blue.svg?maxAge=3600)](https://www.facebook.com/gungunpriatna002) 
-
 [![Linkedin](https://img.shields.io/badge/gungunpriatna-Linkedin-0077b5.svg?maxAge=3600)](https://www.linkedin.com/in/gungunpriatna/) 
